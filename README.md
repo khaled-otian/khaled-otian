@@ -1,67 +1,63 @@
-# 🎓 Student Developer Portfolio
+# 👋 Hi, I'm Khaled Osama Mostafa Mahmoud Otian
 
-## 📌 About Me
-I am a **Computer Science / Information Systems student** passionate about software development and modern web technologies.  
-This repository is part of my academic and self-learning journey and is used to showcase my work, projects, and practical skills.
-
-I am applying for the **GitHub Student Developer Pack** to support my education, learning, and open-source contributions.
-
----
-
-## 🏫 Academic Information
-- **University:** Kafrelsheikh University  
-- **Faculty:** Computers and Information  
-- **Department:** Information Systems  
-- **Academic Level:** Undergraduate (Fourth Year)  
-- **Academic Year:** 2025 – 2026  
+🎓 **Computer Science Student (Information Systems)**
+📍 Faculty of Computers & Information — Kafr El Sheikh University
+📅 Academic Year: **2025 – 2026**
+📘 Level: **Fourth Year**
 
 ---
 
-## 💻 Technical Skills
-- Frontend Development:  
-  - HTML5, CSS3, JavaScript (ES6+)  
-  - React.js, Next.js  
-  - Tailwind CSS, Bootstrap  
+## 👨‍💻 About Me
 
-- Programming Fundamentals:  
-  - Data Structures & Algorithms  
-  - Object-Oriented Programming  
+I am a **fourth-year university student** at the Faculty of Computers & Information,
+Kafr El Sheikh University, specializing in **Information Systems**.
 
-- Tools & Platforms:  
-  - Git & GitHub  
-  - VS Code  
-  - Linux / Ubuntu  
+I use GitHub to:
+
+* Practice programming concepts
+* Work on university and academic projects
+* Improve my technical and problem-solving skills
+* Document my learning journey as a CS student
 
 ---
 
-## 📂 Repository Purpose
-This repository is created for:
-- Academic projects
-- Practical assignments
-- Learning and experimenting with new technologies
-- Building a strong developer portfolio
-- Applying for **GitHub Education benefits**
+## 📚 Academic Background
+
+As part of my studies in **Information Systems**, I focus on:
+
+* **Core Computer Science Topics**
+
+  * Data Structures & Algorithms
+  * Database Systems
+  * Computer Networks
+  * Information Systems
+  * Software Engineering
+  * Operating Systems
+
+* **Programming & Development**
+
+  * Python
+  * C++
+  * C#
+  * JavaScript
+  * Web-based academic projects
 
 ---
 
-## 🚀 Goals
-- Improve my software engineering skills
-- Build real-world projects
-- Contribute to open-source projects
-- Prepare for professional opportunities as a developer
+## 🎯 Goals
+
+* Successfully graduate with strong technical foundations
+* Build real-world projects related to Information Systems
+* Use GitHub as a portfolio of my academic progress
+* Prepare myself for the software development job market
 
 ---
 
-## 📄 Verification
-This repository is linked to my student status and academic work.  
-All content is created for educational purposes.
+## 📫 Contact
+
+* **University Email:** `@fci.kfs.edu.eg`
+* **GitHub:** This profile is used mainly for **educational and academic purposes**
 
 ---
 
-## 📬 Contact
-- GitHub Profile: https://github.com/khaled-otian  
-- Email: khaled_1093a@fci.kfs.edu.eg
-
----
-
-⭐ If you are reviewing this repository as part of **GitHub Education**, thank you for supporting students and developers worldwide.
+⭐ *This GitHub account represents my journey as a Computer Science student.*
